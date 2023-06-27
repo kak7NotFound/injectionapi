@@ -1,0 +1,9 @@
+de\zortax\injection\injector\McClassTransformer.class
+de\zortax\injection\injector\RuntimeInjector.class
+de\zortax\injection\injector\FunctionHook.class
+de\zortax\injection\mcp\WrappedClass.class
+de\zortax\injection\injector\Flags.class
+de\zortax\injection\mcp\McpManager.class
+de\zortax\injection\injector\InjectPosition.class
+de\zortax\injection\injector\McAgent.class
+de\zortax\injection\mcp\MinecraftInstance.class
